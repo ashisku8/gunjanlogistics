@@ -1,0 +1,60 @@
+.text-l {
+	text-align: left !important;
+}
+
+.sp {
+	margin-right: 6px;
+}
+
+.navbar {
+	height: 45px;
+}
+
+.navbar .navbar-nav .nav-link {
+	font-size: 1.1em;
+	color: black !important;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+	background-color: #FF4800;
+	color: #fff !important;
+}
+
+.bg-tomato {
+	background-color: #FF4800;
+}
+
+.bg-tomato1 {
+	background-color: tomato;
+}
+
+.grey-txt {
+    font-family: "Poppins", sans-serif;
+    line-height: 1.5;
+    color: #757575;
+    
+}
+.txt-tomato {
+	color: #FF4800;
+}
+
+
+.dropdown-submenu>.dropdown-menu {
+	top: 0;
+	left: 100%;
+	margin-top: -6px;
+}
+
+.al {
+	text-align: left;
+}
+
+.navbar-brand {
+	font-weight: bold;
+	font-size: 2rem;
+	color: #FF4800 !important;
+}
+
+.navbar {
+	padding: 0rem 0rem;
+}
