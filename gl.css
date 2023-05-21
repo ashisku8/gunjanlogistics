@@ -8,16 +8,19 @@
 
 .navbar {
 	height: 45px;
+	
 }
 
 .navbar .navbar-nav .nav-link {
 	font-size: 1.1em;
 	color: black !important;
+	
 }
 
 .navbar .navbar-nav .nav-link:hover {
-	background-color: #FF4800;
-	color: #fff !important;
+
+	color: blue !important;
+	
 }
 
 .bg-tomato {
